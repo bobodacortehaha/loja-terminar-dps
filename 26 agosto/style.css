@@ -1,0 +1,17 @@
+.cabecalho{
+    background-color:seagreen;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.banner{
+    background-color: darkseagreen;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rodape{
+    background-color:seagreen;
+    height: 260px;
+}
