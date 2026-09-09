@@ -1,0 +1,49 @@
+.cabecalho{
+  background-color:seagreen;
+  height: ;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner{
+  background-color: darkseagreen;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.rodape{
+  background-color:seagreen;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 100px;
+}
+.produto{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  border: 2px solid black;
+  border-radius:50px ;
+}
+*{
+  font-family: poppins;
+}
+.catalogo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.produtos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  height: 400px;
+}
